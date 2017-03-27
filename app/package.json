@@ -1,0 +1,9 @@
+{
+  "name": "pokemon-api",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.12.3",
+    "mongoose": "^4.8.7",
+    "swagger-express-mw": "^0.1.0"
+  }
+}
